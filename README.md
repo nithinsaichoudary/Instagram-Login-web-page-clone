@@ -1,6 +1,6 @@
 # Instagram Desktop Login Page Clone
 
-![Instagram Desktop Clone](https://th.bing.com/th/id/OIP.dRHXQZn68C9Ci9gsa3VjPQHaHZ?pid=ImgDet&rs=1)
+![Instagram Desktop Clone](https://github.com/nithinsaichoudary/Instagram_clone/blob/main/img/image.png?raw=true)
 
 This project is a clone of the Instagram desktop login page. It replicates the design and functionality of the original Instagram login page, allowing users to log in to their Instagram accounts using a desktop browser.
 
