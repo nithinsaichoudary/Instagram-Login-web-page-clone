@@ -10,7 +10,7 @@ This project is a clone of the Instagram desktop login page. It replicates the d
 - Remember me: The "Remember Me" checkbox allows users to save their login credentials for future sessions.
 
 ## Demo
-You can see a live demo of the Instagram desktop login page clone [here](https://your-demo-link.com).
+You can see a live demo of the Instagram desktop login page clone [here](https://nithinsaichoudary.github.io/Instagram_clone/).
 
 ## Installation
 To run the project locally, follow these steps:
